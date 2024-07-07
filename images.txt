@@ -1,1 +1,1 @@
-sgeniusll/bev_trt:v1
+sgeniusll/bev_trt
